@@ -2,7 +2,7 @@ import { Html } from "@react-three/drei";
 
 export const Loader = ()=>{
     return(
-        <Html center>
+        <>
         <div className=" w-24 h-24  flex justify-center items-center relative">
         <div className="absolute inset-0 flex justify-center items-center">
         <div className="loader animate-spin
@@ -13,6 +13,6 @@ export const Loader = ()=>{
         
         </div>
         </div>
-        </Html>
+        </>
     )
 };
