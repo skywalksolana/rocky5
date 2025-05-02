@@ -265,32 +265,32 @@ const expLogos = [
 
 const fighters =[
   {
-      title: "HOSCAT",
-      description:"Fat, fluffy, and ready for the moon-HOSCAT is leading the way! 🚀🐱",
+      title: "Purrito",
+      description:"Fat, fluffy, and ready for the moon-Purrito is leading the way! 🚀🐱",
       imgUrl:"/images/cat/cat1.jfif",
   },
   {
-      title: "HOSCAT",
+      title: "Purrito",
       description:"Who needs a wolf on Wall Street when you have a chubby cat on the blockchain? 🏦🐾",
       imgUrl:"/images/cat/cat2.jfif",
   },
   {
-      title: "HOSCAT",
-      description:"Buy HOSCAT today… or he might just sit on your keyboard forever! 😼💻",
+      title: "Purrito",
+      description:"Buy Purrito today… or he might just sit on your keyboard forever! 😼💻",
       imgUrl:"/images/cat/cat11.jfif",
   },
   {
-      title: "HOSCAT",
-      description:"Powered by snacks, naps, and a dream—HOSCAT is the true king of crypto! 🍗💤👑",
+      title: "Purrito",
+      description:"Powered by snacks, naps, and a Purrito is the true king of crypto! 🍗💤👑",
       imgUrl:"/images/cat/cat4.jfif",
   },
   {
-      title: "HOSCAT",
-      description:"Hodl tight—HOSCAT might be slow, but he always lands on his feet! 🐈⬆️💰",
+      title: "Purrito",
+      description:"Hodl Purrito might be slow, but he always lands on his feet! 🐈⬆️💰",
       imgUrl:"/images/cat/NinjaCat.jfif",
   },
   {
-      title: "HOSCAT",
+      title: "Purrito",
       description:"More fluff, less FUD—join the cutest coin on the market! 😽🚀",
       imgUrl:"/images/cat/cat10.jfif",
   },

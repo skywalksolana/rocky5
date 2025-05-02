@@ -20,11 +20,11 @@ export const UI = () => {
       </h2>
       )}
 
-        <a href="https://pump.fun/coin/BYpHoxpwWuJPpcoWFGCpn2jsvQBBx8Jr5ejr2Btxpump">
+        <a href="https://boop.fun/">
         <img src="images/DexLogo.png" className="pointer-events-auto absolute top-8 right-20 w-4 h-4 transition duration-300 hover:scale-110 hover:rotate-5 hover:opacity-80" />
         </a>
 
-        <a href="https://x.com/HosicoCatGame">
+        <a href="https://x.com/PurritoCatGame">
         <img src="images/xLogo.png" className="pointer-events-auto absolute top-8 right-14 w-4 h-4 transition duration-300 hover:scale-110 hover:rotate-5 hover:opacity-80" />
         </a>
 
